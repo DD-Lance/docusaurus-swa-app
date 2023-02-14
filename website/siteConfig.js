@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Datashield Security', // Title for your website.
+  title: 'Datashield Security Dev22', // Title for your website.
   tagline: 'A website for URL Redirects',
   url: 'https://datashieldsecurity.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -48,14 +48,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
+  headerIcon: 'img/Data_Shield_Rev.png',
   footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon_data-shield.png',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#244e58',
-    secondaryColor: '#19363d',
+    primaryColor: '#8B008B',
+    secondaryColor: '#7B68EE',
   },
 
   /* Custom fonts for website */
