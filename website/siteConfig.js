@@ -48,8 +48,8 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: '/img/icon_data-shield.png',
-  footerIcon: '/img/Data_Shield_Rev.png',
+  headerIcon: 'img/icon_data-shield.png',
+  footerIcon: 'img/Data_Shield_Rev.png',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
